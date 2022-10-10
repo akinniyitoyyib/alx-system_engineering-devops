@@ -1,1 +1,1 @@
-Task 0.Where I am?
+0x02. shell, 1/0 Redirections and filter
